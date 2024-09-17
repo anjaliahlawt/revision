@@ -11,7 +11,7 @@ public class s1
        int min=i;
        for(int j=i+1;j<n;j++)
        {
-         if(arr[j]<arr[min])
+         if(arr[j]>arr[min])
          {
            min=j;
          }
