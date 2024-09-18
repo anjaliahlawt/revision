@@ -4,7 +4,7 @@ public class b5
 {
     public static void main(String[] args)
      {
-        int n=423;
+        int n=1634;
         if (armstrong(n)) {
             System.out.println(n + " is an Armstrong number.");
         } else {
