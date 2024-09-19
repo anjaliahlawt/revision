@@ -1,5 +1,5 @@
 //Find Second Smallest and Second Largest Element in an array
-
+package ARRAY;
 public class a2 
 {
     public static void main(String[] args) 
