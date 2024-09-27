@@ -2,7 +2,7 @@
 
 //sorted array
 
-package ARRAY;
+//package ARRAY;
 
 public class a4 
 {

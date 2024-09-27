@@ -1,6 +1,6 @@
 //Check if an Array is Sorted
 
-package ARRAY;
+//package ARRAY;
 
 public class a3 
 {

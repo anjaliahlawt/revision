@@ -1,5 +1,5 @@
 //Find the Largest element in an array
-package ARRAY;
+
 public class a1 
 {
     public static void main(String[] args) 
