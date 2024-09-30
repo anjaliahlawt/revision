@@ -29,7 +29,7 @@ public class arr3
 }
 */
 
-//2 approch
+//2 approch o(n2)
 /* 
 public class arr3
 {
@@ -69,6 +69,7 @@ public class arr3
 */
 
 //3 approch using moore voting algorithm.o(n)
+
 
 public class arr3
 {
