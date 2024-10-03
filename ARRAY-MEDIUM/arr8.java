@@ -1,9 +1,9 @@
-import java.util.*;
+
 public class arr8 
 {
     public static void main(String[] args)
     {
-        int[]arr={16,17,4,3,5,2};
+        int[]arr={4,7,1,0};
         int n=arr.length;
         int index=0;
         int[]arr1=new int[n];
@@ -21,7 +21,7 @@ public class arr8
            }
 
         }
-     for(int i=0;i<index;i++)
+     for(int i=index-1;i>=0;i--)
      {
         System.out.print(arr1[i]+" ");
      }
